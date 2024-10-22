@@ -1,1 +1,1 @@
-README pls
+calculator written in python 
